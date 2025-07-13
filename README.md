@@ -11,6 +11,10 @@ A Streamlit web app that uses a Random Forest model and VADER sentiment analysis
 Install with:
 ```bash
 pip install -r requirements.txt
+```
+
+
+
 
 ▶️ Run Locally
 streamlit run app.py
